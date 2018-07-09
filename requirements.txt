@@ -1,0 +1,9 @@
+PIL
+flask
+h5py
+keras
+matplotlib
+numpy
+scipy
+sklearn
+tensorflow
